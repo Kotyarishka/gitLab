@@ -1,2 +1,0 @@
-file contents 1
-file contents 2
